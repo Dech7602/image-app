@@ -1,0 +1,7 @@
+streamlit
+pillow
+torch
+transformers
+opencv-python
+nltk
+spacy
